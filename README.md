@@ -1,7 +1,7 @@
---C++ game engine builder wanna be
---BackEnd developer for Team Solei
+--C++ game and game engine builder wanna be
 --C# game developer and .net dev
---Contact: Izumi#0087(discord)
+--JavaScript, TypeScript experienced Web Developer
+--Contact: Izumi#0087(discord) for collaborations
 
 <!---
 sassinzz13/sassinzz13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
