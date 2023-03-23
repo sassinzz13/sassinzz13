@@ -1,4 +1,4 @@
---I am not proficient i just know what im doing : )
+--I am not proficient i just know what im doing : )  
 C++ game and game engine builder
 C# game developer and .net dev
 JavaScript, TypeScript experienced Web Developer
