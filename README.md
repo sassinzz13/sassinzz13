@@ -1,8 +1,7 @@
 --I am not proficient i just know what im doing : )  
-C++ game and game engine builder  
-C# game developer and .net dev  
-JavaScript, TypeScript experienced Web Developer  
-Contact: Izumi#0087(discord) for collaborations  
+--C++ game and game engine builder  
+--C# game developer and .net dev  
+--JavaScript, TypeScript experienced Web Developer  
 
 CEO OF ANGEL TECHNOLOGIES
 
